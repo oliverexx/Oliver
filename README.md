@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/oliverexx/oliverexx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
 
 ###
